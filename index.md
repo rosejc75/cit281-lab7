@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Rose's Lab 7
+In this lab we used GitHub and created our own organization.
 
-You can use the [editor on GitHub](https://github.com/rosejc75/cit281-lab7/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Organization
+In this lab we created our own GitHub organization for the CIT minor. We created our first repository and then cloned it in our terminal window using the command "git clone https://github.com/UO-CIT-rosejc75/cit281-lab7.git". we then created a lab JS file and initialized it as a Node.js folder using previous commands we have learned.
 
-### Markdown
+### Error Handling
+We then updated our lab-07 to play aroun with try..catch..finally, throw. We created our own CustomerError class that takes on error when the class name is CustomError. We experimented with try..catch..finally and console.log debug statements. Finally, we comitted the changes in the terminal.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rosejc75/cit281-lab7/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
